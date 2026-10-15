@@ -1,0 +1,28 @@
+{
+    "agents": [
+        "codex",
+        "opencode"
+    ],
+    "cloud": true,
+    "guidelines": true,
+    "mcp": true,
+    "packages": [
+        "dedoc/scramble",
+        "spatie/laravel-activitylog",
+        "filament/filament",
+        "lorisleiva/laravel-actions",
+        "spatie/laravel-permission"
+    ],
+    "sail": false,
+    "skills": [
+        "infer-conventions",
+        "deploying-to-cloud",
+        "laravel-best-practices",
+        "testing-best-practices",
+        "tailwindcss-development",
+        "scramble-development",
+        "filament-development",
+        "laravel-actions",
+        "laravel-permission-development"
+    ]
+}
