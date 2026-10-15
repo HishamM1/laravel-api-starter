@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "601013b1bbeacc96986591c62f655018",
+    "content-hash": "88bc99cf7691990d2c44b6c522ce2b2f",
     "packages": [
         {
             "name": "anourvalar/eloquent-serialize",
@@ -5964,16 +5964,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/HishamM1/scramble-extras.git",
-                "reference": "553bfaafb9af777f696a458ca19788cb63b0ec74"
+                "reference": "025aa777c801bff5a463282e4fad34c76089eaca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/HishamM1/scramble-extras/zipball/553bfaafb9af777f696a458ca19788cb63b0ec74",
-                "reference": "553bfaafb9af777f696a458ca19788cb63b0ec74",
+                "url": "https://api.github.com/repos/HishamM1/scramble-extras/zipball/025aa777c801bff5a463282e4fad34c76089eaca",
+                "reference": "025aa777c801bff5a463282e4fad34c76089eaca",
                 "shasum": ""
             },
             "require": {
-                "dedoc/scramble": "^0.13.0",
+                "dedoc/scramble": "^0.13.48",
                 "illuminate/console": "^11.0 || ^12.0 || ^13.0",
                 "illuminate/database": "^11.0 || ^12.0 || ^13.0",
                 "illuminate/support": "^11.0 || ^12.0 || ^13.0",
@@ -6036,7 +6036,7 @@
             "support": {
                 "source": "https://github.com/HishamM1/scramble-extras/tree/main"
             },
-            "time": "2026-10-14T09:08:57+00:00"
+            "time": "2026-10-15T11:50:59+00:00"
         },
         {
             "name": "pragmarx/google2fa",
