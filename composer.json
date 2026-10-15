@@ -16,6 +16,7 @@
         "laravel/tinker": "^3.0",
         "league/flysystem-aws-s3-v3": "^3.0",
         "lorisleiva/laravel-actions": "^2.12",
+        "pjadanowski/scramble-extras": "dev-main",
         "pxlrbt/filament-environment-indicator": "^3.6",
         "pxlrbt/filament-excel": "^4.1",
         "resend/resend-php": "^1.16",
@@ -108,5 +109,10 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "repositories": [{
+        "name": "scramble-extras",
+        "type": "vcs",
+        "url": "https://github.com/HishamM1/scramble-extras"
+    }]
 }

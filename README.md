@@ -18,7 +18,7 @@ A Laravel 13 starter for JSON APIs with a Filament admin panel. It comes with au
 | TypeScript types | spatie/laravel-typescript-transformer |
 | Health checks | spatie/laravel-health |
 | Admin panel | Filament 5, with jobs monitor, activity log, Excel export and environment badge |
-| API docs | dedoc/scramble (OpenAPI) and Scalar (UI) |
+| API docs | dedoc/scramble with scramble-extras (OpenAPI) and Scalar (UI) |
 | Errors | Sentry |
 | Mail | Resend |
 | Tests and quality | Pest, Larastan, Pint |
