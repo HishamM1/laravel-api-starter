@@ -5963,13 +5963,13 @@
             "version": "dev-main",
             "source": {
                 "type": "git",
-                "url": "https://github.com/HishamM1/scramble-extras.git",
-                "reference": "025aa777c801bff5a463282e4fad34c76089eaca"
+                "url": "git@github.com:HishamM1/scramble-extras.git",
+                "reference": "4e828ee5468f433198245ec8c62a03d4fb62e5e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/HishamM1/scramble-extras/zipball/025aa777c801bff5a463282e4fad34c76089eaca",
-                "reference": "025aa777c801bff5a463282e4fad34c76089eaca",
+                "url": "https://api.github.com/repos/HishamM1/scramble-extras/zipball/4e828ee5468f433198245ec8c62a03d4fb62e5e9",
+                "reference": "4e828ee5468f433198245ec8c62a03d4fb62e5e9",
                 "shasum": ""
             },
             "require": {
@@ -6033,10 +6033,7 @@
                 "scramble",
                 "spatie"
             ],
-            "support": {
-                "source": "https://github.com/HishamM1/scramble-extras/tree/main"
-            },
-            "time": "2026-10-15T11:50:59+00:00"
+            "time": "2026-10-15T12:01:21+00:00"
         },
         {
             "name": "pragmarx/google2fa",
